@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news_headline_image">News Headline Image</string>
+    <string name="keep_yourself_updated">Keep yourself updated...</string>
+    <string name="splash_screen_icon">Splash screen icon</string>
+    <string name="developer">Developer :-</string>
+    <string name="sparsh_nandrajog">Sparsh Nandrajog</string>
+</resources>

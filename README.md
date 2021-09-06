@@ -1,9 +1,7 @@
 # NewsApp 
 Simple app to keep yourself updated.
 
-Frontend - XML(Relative Layout) 
-
-Backend - Kotlin
+Frontend - XML(Relative Layout) , Kotlin
 
 
 # Concepts used
